@@ -29,3 +29,7 @@ build/
 
 # Environment variables
 .env
+
+# Output files
+outputs/
+output/
